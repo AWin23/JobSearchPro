@@ -14,7 +14,7 @@ import { icons, SIZES } from '../../../constants';
 
 const jobTypes = ["Full-time", "Part-time", "Contractor", "Internships"];
 
-const Welcome = () => {
+const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
   const router = useRouter();
   const [activeJobType, setActiveJobType] = useState('Full-time');
 
@@ -29,14 +29,14 @@ const Welcome = () => {
         <View style={styles.searchWrapper}>
           <TextInput
             style={styles.searchInput}
-            value=""
-            onChange={() => { }}
+            value={searchTerm}
+            onChangeText={(text) => setSearchTerm(text)} // Fixed the onChange event           
             placeholder="What are you looking for?"
             placeholderTextColor="gray"
           />
         </View>
 
-        <TouchableOpacity style={styles.searchBtn} onPress={() => { }}>
+        <TouchableOpacity style={styles.searchBtn} onPress={handleClick}>
           <Image
             source={icons.search}
             resizeMode="contain"
@@ -60,7 +60,7 @@ const Welcome = () => {
             </TouchableOpacity>
           )}
           keyExtractor={item => item}
-          contentContainerStyle={{columnGap: SIZES.small}}
+          contentContainerStyle={{ columnGap: SIZES.small }}
           horizontal
         />
       </View>
