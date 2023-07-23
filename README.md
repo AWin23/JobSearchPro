@@ -5,19 +5,19 @@
 Compatible with Androids and iOS platforms. Job search app allows users to look up desired jobs in the search bar or use the navigation bars to find what jobs they want. 
 
 Home page:
-![Home Page](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/HomePage.jpeg)
+![Home Page](react-native-jobs/HomePage.jpeg)
 
 
 Contractor Jobs:
-![Contractor](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Contractor.jpeg)
+![Contractor](react-native-jobs/Contractor.jpeg)
 
 
 Part-time job:
-![Part-Time](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Part-Time.jpeg)
+![Part-Time](react-native-jobs/Part-Time.jpeg)
 
 
 Users can apply with a push of a button and will redirect them to URL online. 
-![Application](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Application.jpeg)
+![Application](react-native-jobs/Application.jpeg)
 
 
 
