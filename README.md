@@ -1,6 +1,6 @@
 # Job-Search Application
 
-  To test the app or run it yourself, go to Project page: https://expo.dev/@a.win23/react-native-jobs?serviceType=classic&distribution=expo-go
+  To test the app or run it yourself, go to Project page: https://expo.dev/@a.win23/react-native-jobs?serviceType=classic&distribution=expo-go 
 
 Compatible with Androids and iOS platforms. Job search app allows users to look up desired jobs in the search bar or use the navigation bars to find what jobs they want. 
 
