@@ -5,19 +5,19 @@
 Compatible with Androids and iOS platforms. Job search app allows users to look up desired jobs in the search bar or use the navigation bars to find what jobs they want. 
 
 Home page:
-![Home Page](react-native-jobs/HomePage.jpeg)
+![Home Page](https://github.com/AWin23/JobSearchPro/blob/main/HomePage.jpeg?raw=true)
 
 
 Contractor Jobs:
-![Contractor](react-native-jobs/Contractor.jpeg)
+![Contractor](https://github.com/AWin23/JobSearchPro/blob/main/Contractor.jpeg?raw=true)
 
 
 Part-time job:
-![Part-Time](react-native-jobs/Part-Time.jpeg)
+![Part-Time](https://github.com/AWin23/JobSearchPro/blob/main/Part-Time.jpeg?raw=true)
 
 
 Users can apply with a push of a button and will redirect them to URL online. 
-![Application](react-native-jobs/Application.jpeg)
+![Application](https://github.com/AWin23/JobSearchPro/blob/main/Application.jpeg?raw=true)
 
 
 
