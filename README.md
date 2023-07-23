@@ -1,22 +1,24 @@
 # Job-Search Application
 
-  Project page: https://expo.dev/@a.win23/react-native-jobs?serviceType=classic&distribution=expo-go
+  To test the app or run it yourself, go to Project page: https://expo.dev/@a.win23/react-native-jobs?serviceType=classic&distribution=expo-go
 
 Compatible with Androids and iOS platforms. Job search app allows users to look up desired jobs in the search bar or use the navigation bars to find what jobs they want. 
 
 Home page:
-!(HomePage.jpeg)
+![Home Page](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/HomePage.jpeg)
 
 
 Contractor Jobs:
-!(Contractor.jpeg)
+![Contractor](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Contractor.jpeg)
 
 
 Part-time job:
-!(Part-Time.jpeg)
+![Part-Time](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Part-Time.jpeg)
+
 
 Users can apply with a push of a button and will redirect them to URL online. 
-!(Application.jpeg)
+![Application](/Users/andrewnguyen/Documents/ReactJS-Learning/react-native-jobs/Application.jpeg)
+
 
 
 
